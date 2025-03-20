@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dalai-lama-books/static/css/main.a5cbaaa7.css",
+    "main.js": "/dalai-lama-books/static/js/main.23bd7a9e.js",
+    "index.html": "/dalai-lama-books/index.html",
+    "main.a5cbaaa7.css.map": "/dalai-lama-books/static/css/main.a5cbaaa7.css.map",
+    "main.23bd7a9e.js.map": "/dalai-lama-books/static/js/main.23bd7a9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5cbaaa7.css",
+    "static/js/main.23bd7a9e.js"
+  ]
+}
