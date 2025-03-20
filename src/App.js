@@ -6,7 +6,7 @@ import BookDetail from './BookDetail';
 
 function App() {
   return ( 
-        <Router basename={process.env.PUBLIC_URL}>
+      <Router basename="/dalai-lama-books">
         <div className="App">
         <header style={{ 
           backgroundColor: '#9E0000', 

@@ -13,7 +13,7 @@ const BookDetail = () => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await fetch('/data/dalailama_books.csv');
+        const response = await fetch(`${process.env.PUBLIC_URL}/data/dalailama_books.csv`);
         const text = await response.text();
         
         Papa.parse(text, {
