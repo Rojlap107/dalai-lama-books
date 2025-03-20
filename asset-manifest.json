@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dalai-lama-books/static/css/main.a5cbaaa7.css",
-    "main.js": "/dalai-lama-books/static/js/main.56ff7644.js",
-    "index.html": "/dalai-lama-books/index.html",
-    "main.a5cbaaa7.css.map": "/dalai-lama-books/static/css/main.a5cbaaa7.css.map",
-    "main.56ff7644.js.map": "/dalai-lama-books/static/js/main.56ff7644.js.map"
+    "main.css": "/static/css/main.a5cbaaa7.css",
+    "main.js": "/static/js/main.e86076b5.js",
+    "index.html": "/index.html",
+    "main.a5cbaaa7.css.map": "/static/css/main.a5cbaaa7.css.map",
+    "main.e86076b5.js.map": "/static/js/main.e86076b5.js.map"
   },
   "entrypoints": [
     "static/css/main.a5cbaaa7.css",
-    "static/js/main.56ff7644.js"
+    "static/js/main.e86076b5.js"
   ]
 }
